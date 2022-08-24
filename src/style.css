@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./Enso-qWRq.ttf'),
+    url('./Roboto-Light.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'MyFont';
+  /* background: url('C3PO.svg') */
+}
